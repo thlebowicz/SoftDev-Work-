@@ -5,6 +5,11 @@ Thomas Hlebowicz
 Period 6
 
 ## Main Projects
+### Final
+### Team members
+Thomsa Hlebowicz, Hubert Puszklewicz, Lawrence Lim
+### https://github.com/CookedGoose/gooseboard
+
 ###API
 #### Team members
 Thomas Hlebowicz, Hubert Puszklewicz
